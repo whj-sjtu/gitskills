@@ -1,1 +1,3 @@
 # gitskills
+
+git clone finished
